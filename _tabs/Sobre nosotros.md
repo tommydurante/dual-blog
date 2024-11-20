@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 3
 ---
 
 > En [Dual Laser](https://www.dualaser.com), transformamos ideas en realidades únicas a través de la precisión y **creatividad del corte y grabado láser**. Desde la Ciudad Autónoma de Buenos Aires, ofrecemos soluciones personalizadas para emprendedores, artistas, empresas y entusiastas del diseño.
