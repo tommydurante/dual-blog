@@ -1,18 +1,19 @@
 #  The contact options.
 
-- type: facebook
+- type: reddit
   icon: "fa-brands fa-facebook"
+  url: "facebook.com/duallaser.ar"
 
-- type: instagram
+- type: x
   icon: "fa-brands fa-instagram"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# type: rss
+# icon: "fas fa-rss"
+# noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
