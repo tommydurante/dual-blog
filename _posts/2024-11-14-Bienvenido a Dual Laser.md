@@ -2,8 +2,8 @@
 
 title: Sobre nosotros
 date: 2024-11-19 14:20:30 -0300
-categories: dual, laser
-tags: prueba
+categories: dual laser
+tags: corte y grabado, corte laser buenos aires, corte y grabado laser argentina, regalos empresariales personalizados
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon: "fa-solid fa-shop"
-order: 0
+order: 1
 ---
 
  [VISITA NUESTRA TIENDA ONLINE](https://dualaser.com)
