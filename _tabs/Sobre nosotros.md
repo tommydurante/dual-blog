@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> En [Dual Laser](dualaser.com), transformamos ideas en realidades únicas a través de la precisión y **creatividad del corte y grabado láser**. Desde la Ciudad Autónoma de Buenos Aires, ofrecemos soluciones personalizadas para emprendedores, artistas, empresas y entusiastas del diseño.
+> En [Dual Laser](https://www.dualaser.com), transformamos ideas en realidades únicas a través de la precisión y **creatividad del corte y grabado láser**. Desde la Ciudad Autónoma de Buenos Aires, ofrecemos soluciones personalizadas para emprendedores, artistas, empresas y entusiastas del diseño.
 
 > Nos especializamos en trabajar con una amplia variedad de materiales, desde **madera y acrílico** hasta **cuero y metal**, garantizando resultados impecables para proyectos pequeños y grandes. Ya sea que necesites productos promocionales únicos, detalles personalizados para eventos o piezas de diseño innovadoras, nuestro equipo está para acompañarte en cada paso del proceso.
 
