@@ -40,10 +40,7 @@ social:
     #- https://twitter.com/username # change to your Twitter homepage
     #- https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://dualaser.com
-    - https://www.tiktok.com/duallaser
-    - https://www.facebook.com/duallaser.ar
-    - https://www.instagram.com/duallaser.ar
+    - "https://dualaser.com"
 
 # Site Verification Settings
 webmaster_verifications:
