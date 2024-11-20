@@ -1,10 +1,10 @@
 #  The contact options.
 
 - type: facebook
-  icon: "fa fa-facebook"
+  icon: "fa-brands fa-facebook"
 
 - type: instagram
-  icon: "fa fa-instagram"
+  icon: "fa-brands fa-instagram"
 
 - type: email
   icon: "fas fa-envelope"
